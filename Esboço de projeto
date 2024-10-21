@@ -1,32 +1,51 @@
-Equipe
+# A Influência da Gamificação na Aprendizagem em Alunos de Engenharia de Software
 
-    Matheus Eduardo Marinho de Miranda Hrmenegildo
-    Miguel Amaral Lessa Xavier
-    Orientador: Lesandro Ponciano
+## Equipe
+- Matheus Eduardo Marinho de Miranda Hrmenegildo
+- Miguel Amaral Lessa Xavier
+- Orientador: Lesandro Ponciano
 
-Tema
-O tema tratado na pesquisa é A Influência da gamificação na aprendizagem em alunos de Engenharia de Software
+## Tema
+O tema tratado na pesquisa é **A Influência da Gamificação na Aprendizagem em Alunos de Engenharia de Software**.
 
-Problema
-O problema a ser resolvido na pesquisa é: 
+## Problema
+O problema a ser resolvido na pesquisa é **como a gamificação pode auxiliar alunos a aprender conceitos complexos, como estruturas de dados, de maneira lúdica e interativa**.
 
+## Objetivo Geral
+O objetivo geral a ser alcançado nesta pesquisa é **ver o impacto que alternativas ao ensino tradicional podem ter em alunos do ensino superior**.
 
-Objetivo geral
-O objetivo geral a ser alcançado nesta pesquisa é medir o impacto que alternativas ao ensino tradicional podem ter em alunos do ensino superior
-
-Objetivos específicos
-
+## Objetivos Específicos
 Os objetivos específicos são:
+1. **Observar o quanto esse impacto pode ser maior em indivíduos com alguma neurodivergência que os impede de concentrar por longos períodos de tempo.**
 
-    _Específicos: Observar o quanto esse impacto pode ser maior em indivíduos com alguma neuro divergência que os impede de concentrar por longos períodos de tempo._
+## Justificativa
+Analisar o efeito que novas alternativas de ensino podem ter em estudantes do ensino superior e aplicá-las em contextos reais de aprendizado.
 
+## Revisão da Literatura
+1. **Gamificação**: Trata-se de um neologismo derivado da palavra estrangeira game (jogo) e ificação (transformar em algo), referindo-se a transformar uma tarefa cotidiana em algo similar a um jogo.
+2. **Gamificação na Educação**: A gamificação se baseia no conceito de flow (fluxo), onde um indivíduo está profundamente focado na atividade que está realizando, além de despertar sentimentos como bem-estar e satisfação ao concluir uma tarefa.
+3. **Efeitos da Gamificação na Aprendizagem**: Pesquisas anteriores demonstram que a gamificação pode estimular a motivação e interação dos alunos com o conteúdo.
 
-Materiais e Métodos
+## Materiais e Métodos
+As ferramentas, dados, métricas, forma de amostragem e análise estatística são:
+- **Tipo de pesquisa**: Qualitativa.
+- **Participantes**:
+  - **Perfil**: Estudantes de ensino superior matriculados no curso de Engenharia de Software, com idades entre 18 e 25 anos.
+  - **Critérios de inclusão e exclusão**: Alunos não matriculados no curso de Engenharia de Software, com idades inferiores a 18 anos ou superiores a 25 anos.
+  - **Tamanho da amostra**: 10 estudantes.
+- **Instrumentos de Coleta de Dados**:
+  - **Questionários**: Avaliação do nível de satisfação, nível de aprendizado e tempo de foco.
+  - **Análise de dados**: Análise de conteúdo dos resultados apresentados nos questionários, tempo médio de resposta e tempo médio de foco.
+- **Procedimentos**:
+  - **Intervenção**: Utilização da plataforma Khan Academy.
+  - **Coleta de dados**: Aplicação de questionários e análise dos resultados acadêmicos.
 
-As ferramentas, dados, métricas, forma de amostragem, análise estatística são:
+## Resultados Esperados
+- **Hipóteses**: Estudantes que utilizam métodos de estudo gamificados apresentarão maior tempo de foco e melhores resultados acadêmicos.
+- **Resultados**: Espera-se que os estudantes apresentem melhores resultados acadêmicos (nota) em avaliações.
 
-    Os projetos de código aberto selecionados são aqueles que utilizam a plataforma GitHub (https://github.com/). Um conjunto de 30 projetos com diferente número de forks, de 10 a 10000, são analisados.
-    Dados dos commits são coletados via Interface de Programação de Aplicações (API) do GitHub (https://docs.github.com/en/rest?apiVersion=2022-11-28). A cada commit estão associadas as informações do projeto, programador e data.
-    Engajamento de longo prazo é medido pelas métricas Relative Activitiy Duration (definida no trabalho científico disponível no seguinte link https://doi.org/10.15346/hc.v1i2.12) e Activity Ratio (definida em no trabalho científico disponível no seguinte link https://doi.org/10.1109/MCSE.2014.4)
-    Progamadores são analisados em grupo pelos valores de Relative Activitiy Duration e Activity Ratio
-    Correlação de Spearman é medida entre popularidade de projeto e média de engajamento dos programadors.
+## Referências Bibliográficas
+- DA SILVA, Andreza Regina Lopes et al. Gamificação na educação. Pimenta Cultural, 2014.
+
+## Apêndices
+- Questionários
