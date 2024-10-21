@@ -1,8 +1,32 @@
 Equipe
 
     Matheus Eduardo Marinho de Miranda Hrmenegildo
-    Miguel Lessa Xavier
+    Miguel Amaral Lessa Xavier
     Orientador: Lesandro Ponciano
 
 Tema
 O tema tratado na pesquisa é A Influência da gamificação na aprendizagem em alunos de Engenharia de Software
+
+Problema
+O problema a ser resolvido na pesquisa é: 
+
+
+Objetivo geral
+O objetivo geral a ser alcançado nesta pesquisa é medir o impacto que alternativas ao ensino tradicional podem ter em alunos do ensino superior
+
+Objetivos específicos
+
+Os objetivos específicos são:
+
+    _Específicos: Observar o quanto esse impacto pode ser maior em indivíduos com alguma neuro divergência que os impede de concentrar por longos períodos de tempo._
+
+
+Materiais e Métodos
+
+As ferramentas, dados, métricas, forma de amostragem, análise estatística são:
+
+    Os projetos de código aberto selecionados são aqueles que utilizam a plataforma GitHub (https://github.com/). Um conjunto de 30 projetos com diferente número de forks, de 10 a 10000, são analisados.
+    Dados dos commits são coletados via Interface de Programação de Aplicações (API) do GitHub (https://docs.github.com/en/rest?apiVersion=2022-11-28). A cada commit estão associadas as informações do projeto, programador e data.
+    Engajamento de longo prazo é medido pelas métricas Relative Activitiy Duration (definida no trabalho científico disponível no seguinte link https://doi.org/10.15346/hc.v1i2.12) e Activity Ratio (definida em no trabalho científico disponível no seguinte link https://doi.org/10.1109/MCSE.2014.4)
+    Progamadores são analisados em grupo pelos valores de Relative Activitiy Duration e Activity Ratio
+    Correlação de Spearman é medida entre popularidade de projeto e média de engajamento dos programadors.
