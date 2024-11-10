@@ -9,10 +9,10 @@ O artigo investiga se o método de pagar automaticamente(em código fonte) a dí
 
 ## 2. Fichamento bibliográfico
 
-- _Dívida técnica auto-admitida(SATD):_ 
-- _Pre-trained transformers(Transformadores pré-treinados):_
-- _SATD Comments(Comentários SATD:_
-- _Deep Learning(Aprendizagem profunda):_
+- _Dívida técnica auto-admitida(SATD) é um tipo de dívida técnica que os próprios desenvolvedores reconhecem e registram diretamente no código. Isso geralmente é feito através de comentários como “TODO” e “FIXME”.(pág. 1)_ 
+- _Modelos generativos são algoritmos de inteligência artificial (IA) que aprendem padrões a partir de grandes conjuntos de dados e geram novos dados semelhantes(pág. 1)_
+- _Pre-trained models são modelos de aprendizado de máquina que passam por um treinamento inicial em grandes conjuntos de dados. Esse processo de pré-treinamento permite que o modelo aprenda padrões gerais e características fundamentais dos dados, como regras gramaticais, estruturas de código, ou até mesmo padrões semânticos(pág. 2)_
+- _Deep Learning(Aprendizagem profunda) é um subconjunto do aprendizado de máquina que usa redes neurais de várias camadas, chamadas de redes neurais profundas, para simular o complexo poder de tomada de decisão do cérebro humano.(pág. 5)_
 
 ## 3. Fichamento de Citações
 
