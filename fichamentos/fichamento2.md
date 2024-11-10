@@ -11,14 +11,15 @@ O artigo investiga se o método de pagar automaticamente(em código fonte) a dí
 
 - _Dívida técnica auto-admitida(SATD):_ 
 - _Pre-trained transformers(Transformadores pré-treinados):_
-- _CodeT5:_
 - _SATD Comments(Comentários SATD:_
 - _Deep Learning(Aprendizagem profunda):_
 
 ## 3. Fichamento de Citações
 
--
--
--
+- _"SATD refers to instances of technical debt documented (e.g., through code comments) by developers"_
+- _"Removing SATD is an essential activity in software maintenance, with most SATD instances eventually being removed, often when source code is refactored or improved"_
+- _"Considering the diversity of SATD, its repayment would require approaches that go beyond what has been developed for related tasks like code repair or bug fixing"_
+- _"Among the different experimental configurations, models combining both self-supervised and supervised pre-training show slight performance improvement"_
+- _"The need for additional research is evident as current models can only handle simpler SATD cases effectively, with complex SATDs requiring multiple code edits beyond the models’ current capabilities"_
 
 
