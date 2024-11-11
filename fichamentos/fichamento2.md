@@ -5,7 +5,7 @@ Stephany Bellomo, Robert L. Nord, Ipek Ozkaya, and Mary Popeck. 2016. Got techni
 
 ## 1. Fichamento de Conteúdo
 
-O artigo se trata sobre o desenvolvimento de uma técnica cuja execução é dividida em duas partes que indentifica possíveis dívidas técnicas por meio de issue trackers. A primeira fase, a de classificação, onde dois proffisionais experientes, criam uma planilha e dividem os issues em diversas categorias como: tipo, prioridade e duração. E pela fase 2, onde os erros são clarificados pelo processo em que um dos pesquisadores escolheru uma subcategoria aleatória de issues, e dois profissionais classificaram os mesmos em uma planilha. Por fim se consegue criar uma Por fim, consegue-se criar uma base estruturada de dados sobre as dívidas técnicas, permitindo uma análise mais precisa das áreas que requerem atenção e facilitando o planejamento de estratégias para resolução futura.
+Assim, a técnica possibilita uma visão mais organizada e detalhada das dívidas técnicas ao categorizar e clarificar os issues em duas fases estruturadas. A criação de uma base de dados estruturada permite uma análise aprofundada das áreas que necessitam de melhorias, promovendo uma priorização mais eficaz e facilitando o planejamento estratégico para a resolução de dívidas técnicas. Dessa forma, o processo contribui para um gerenciamento mais eficiente e sustentável do projeto, reduzindo os riscos associados à acumulação de dívidas técnicas ao longo do tempo.precisa das áreas que requerem atenção e facilitando o planejamento de estratégias para resolução futura.
 
 
 
