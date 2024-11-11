@@ -4,8 +4,7 @@
 Stephany Bellomo, Robert L. Nord, Ipek Ozkaya, and Mary Popeck. 2016. Got technical debt? surfacing elusive technical debt in issue trackers. In Proceedings of the 13th International Conference on Mining Software Repositories (MSR '16). Association for Computing Machinery, New York, NY, USA, 327–338. https://doi.org/10.1145/2901739.2901754
 
 ## 1. Fichamento de Conteúdo
-
-Assim, a técnica possibilita uma visão mais organizada e detalhada das dívidas técnicas ao categorizar e clarificar os issues em duas fases estruturadas. A criação de uma base de dados estruturada permite uma análise aprofundada das áreas que necessitam de melhorias, promovendo uma priorização mais eficaz e facilitando o planejamento estratégico para a resolução de dívidas técnicas. Dessa forma, o processo contribui para um gerenciamento mais eficiente e sustentável do projeto, reduzindo os riscos associados à acumulação de dívidas técnicas ao longo do tempo.precisa das áreas que requerem atenção e facilitando o planejamento de estratégias para resolução futura.
+Dessa forma, a técnica proposta proporciona um gerenciamento mais eficiente da dívida técnica ao permitir uma categorização minuciosa dos issues, possibilitando que as equipes identifiquem pontos críticos e priorizem ações de acordo com a gravidade e urgência. A estruturação das informações em uma base de dados consolidada não apenas facilita o acompanhamento das dívidas técnicas, mas também viabiliza a criação de estratégias preventivas e corretivas a longo prazo. Essa abordagem sistemática resulta em uma redução de riscos e contribui para a sustentabilidade do projeto, evitando que problemas não resolvidos comprometam a qualidade e a evolução do software.
 
 
 
