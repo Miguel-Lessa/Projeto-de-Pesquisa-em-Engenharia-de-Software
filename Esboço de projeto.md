@@ -2,7 +2,7 @@
 
 * Matheus Eduardo Marinho de Miranda Hermenegildo
 * Miguel Amaral Lessa Xavier
-* Lesando Ponciano dos Santos
+* Orientador: Lesando Ponciano dos Santos
 
 # Tema
 O tema tratado na pesquisa é _avaliação de estratégias para Identificação, Monitoramento e Mitigação da Dívida Técnica em Projetos de Software_
