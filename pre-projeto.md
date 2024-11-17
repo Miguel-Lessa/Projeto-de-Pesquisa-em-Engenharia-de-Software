@@ -7,7 +7,7 @@
 ## Introdução
 
 * A área da Engenharia de Software tratada neste trabalho é a _Avaliação de estratégias para gerenciamento da Dívida Técnica em Projetos de Software_
-* O problema que este trabalho busca resolver é o de _Quais são as melhores estratégias de gerenciamento da dívida técnica em projetos de software?  E quais são as estratégias para identifica-las e gerencia-las?_
+* O problema que este trabalho busca resolver é o de _Quais são as melhores estratégias de gerenciamento da dívida técnica em projetos de software?  E quais são as estratégias para identifica-las_
 * A resolução deste problema é relevante pois, uma vez que claros os métodos de identificação de dívida técnica, projetos de software poderão realizar uma gerência mais eficiente de recursos como tempo de desenvolvimento, necessidade de retrabalho e possíveis custos no mesmo e na manutenção do software.
 * O objetivo geral deste trabalho é _Avaliar estratégias eficazes para gerenciamento da dívida técnica desde a fase de identificação até a gestão de recursos para soluciona-la, visando aumentar a manutenibilidade e reduzir os custos de retrabalho e manutenção._
 * Os objetivos específicos deste trabalho são:
@@ -29,8 +29,8 @@
 
 ## Materiais e Métodos
 
-* O tipo de pesquisa adotado neste trabalho é "quantitativa", pois ela trata de atributos quantitativos relacionados a dívida técnica em pro
+* O tipo de pesquisa adotado neste trabalho é "quantitativa", pois ela trata de atributos quantitativos relacionados a dívida técnica em projetos de código aberto. 
 * Os materiais utilizados neste trabalho são: projetos de código aberto e seus respectivos _issue trackers_ que utlizam a plataforma Github (github.com) para versionamento de código. 
 * Os métodos empregados neste trabalho são: análise de commits que alteram parte significativa do código para sanar issues reportados em issue trackers do projeto; análise de issues reportados em issue trackers de projetos (https://doi.org/10.1145/2901739.2901754); reunião com stakeholders e planing poker (https://dl.acm.org/doi/10.1145/3664805);
-* As métricas de avaliação são: taxa de retrabalho causado por dívida técnica;
-* As etapa de execução do trabalho são: (1) coletar de dados de projetos de código aberto no github; (2) analisar os issues reportados em issue trackers; (3) 
+* As métricas de avaliação são: taxa de retrabalho causado por dívida técnica; taxa de issues relacionados à dívida técnica; resultados coletados em validação de dívidas técnicas;
+* As etapa de execução do trabalho são: (1) coletar de dados de projetos de código aberto no github; (2) analisar os issues reportados em issue trackers;
