@@ -8,7 +8,7 @@
 O tema tratado na pesquisa é _avaliação de estratégias para gerenciamento da Dívida Técnica em Projetos de Software_
 
 # Problema
-Quais estratégias de gerenciamento da dívida técnica em projetos de software e estratégias para identifica-las e gerencia-las.
+Quais são as melhores estratégias de gerenciamento da dívida técnica em projetos de software?  E quais são as estratégias para identifica-las e gerencia-las?
 
 # Objetivo geral
 O objetivo geral a ser alcançado nesta pesquisa é avaliar estratégias eficazes para gerenciamento da dívida técnica desde a fase de identificação até a gestão de recursos para soluciona-la, visando aumentar a manutenibilidade e reduzir os custos de retrabalho e manutenção.
