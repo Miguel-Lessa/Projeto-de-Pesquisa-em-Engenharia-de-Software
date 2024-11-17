@@ -25,7 +25,7 @@
 
 1. O trabalho mais relacionado é _Got Technical Debt?Surfacing Elusive Technical Debt in Issue Trackers_ (https://doi.org/10.1145/2901739.2901754), publicado no ano de 2016, pois traz métodos de classificação para identificação de dívidas técnicas em projetos de software.
 2. O segundo trabalho mais relacionado é _Towards Automatically Addressing Self-Admitted Technical Debt: How Far Are We?_ (https://doi.org/10.1109/ASE56229.2023.00103) , publicado no ano de 2023, por propor um novo método para gerenciar dívidas técnicas, com o uso de issue trackers auto-admitidos por desenvolvedores.
-3. O terceiro trabalho mais relacionado é ...., publicado no ano ...,  por que ....
+3. O terceiro trabalho mais relacionado é _Technical Debt Monitoring Decision Making with Skin in the Game_ , publicado no ano de 2024,  por trazer uma proposta de gerência de prioridades para dívidas técnicas baseada em contexto do projeto e decisões de stakeholders.
 
 ## Materiais e Métodos
 
