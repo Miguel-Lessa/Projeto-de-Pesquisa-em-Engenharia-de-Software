@@ -1,30 +1,31 @@
 # Título do trabalho
 
-1. Nome do aluno 1
-1. Nome do aluno 2 (se houver)
-
-* Nome do orientador de conteúdo
-* Nome do orientador acadêmico
+* Matheus Eduardo Marinho de Miranda Hermenegildo
+* Miguel Amaral Lessa Xavier
+* Orientador: Lesando Ponciano dos Santos
 
 ## Introdução
 
-1. A área da Engenharia de Software tratada neste trabalho é.... _[incluir a frase exatamente como ela aparece no seu projeto]_
-1. O problema que este trabalho busca resolver nessa área é... _[incluir a frase exatamente como ela aparece no seu projeto]_
-1. Resolver este problema é relevante por que...
-1. O objetivo geral deste trabalho é _[incluir a frase exatamente como ela aparece no seu projeto]_
-1. Os *três* objetivos específicos deste trabalho são _[incluir exatamente como aparece no seu projeto]_
+* A área da Engenharia de Software tratada neste trabalho é a _Avaliação de estratégias para gerenciamento da Dívida Técnica em Projetos de Software_
+* O problema que este trabalho busca resolver é o de _Quais são as melhores estratégias de gerenciamento da dívida técnica em projetos de software?  E quais são as estratégias para identifica-las e gerencia-las?_
+* A resolução deste problema é relevante pois, uma vez que claros os métodos de identificação de dívida técnica, projetos de software poderão realizar uma gerência mais eficiente de recursos como tempo de desenvolvimento, necessidade de retrabalho e possíveis custos no mesmo e na manutenção do software.
+* O objetivo geral deste trabalho é _Avaliar estratégias eficazes para gerenciamento da dívida técnica desde a fase de identificação até a gestão de recursos para soluciona-la, visando aumentar a manutenibilidade e reduzir os custos de retrabalho e manutenção._
+* Os *três* objetivos específicos deste trabalho são:
+1. Identificar estratégias eficazes para identificar dívidas técnicas
+2. Identificar qual é o melhor método de gerenciar recursos para resolver dívidas técnicas
+3. Examinar como a comunicação e o alinhamento entre as equipes técnicas e os stakeholders influenciam as estratégias de gestão da dívida técnica em projetos de software.
 
 ## Fundamentação Teórica
 
-1. O conceito/teoria principal associado a este trabalho é ....  A sua definição neste trabalho  é conforme definido no trabalho .... pelo autor ...
-1. O conceito/teoria secundário associado a este trabalho é ....  A sua definição neste trabalho é conforme definido no trabalho .... pelo autor ...
-1. O conceito/teoria terciário associado a este trabalho é ....  A sua definição neste trabalho é conforme definido no trabalho .... pelo autor ...
+1. O conceito/teoria principal associado a este trabalho é o de _Technical debt_ (dívida técnica). Cuja definição neste trabalho é a de "Comparar decisões e escolhas em projetos de software com dívidas financeiras, se referindo a artefatos de software incompletos, inadequados ou imaturos, que podem causar baixa qualidade e custos elevados em estágios mais avançados do projeto" conforme definido na conferência OOPSLA'92 de 1992 pelo autor Ward Cunningham.
+2. O conceito/teoria secundário associado a este trabalho é ....  A sua definição neste trabalho é conforme definido no trabalho .... pelo autor ...
+3. O conceito/teoria terciário associado a este trabalho é ....  A sua definição neste trabalho é conforme definido no trabalho .... pelo autor ...
 
 ## Trabalhos Relacionados
 
 1. O trabalho mais relacionado é ...., publicado no ano ..., por que ....
-1. O segundo trabalho mais relacionado é .... , publicado no ano ..., por que ....
-1. O terceiro trabalho mais relacionado é ...., publicado no ano ...,  por que ....
+2. O segundo trabalho mais relacionado é .... , publicado no ano ..., por que ....
+3. O terceiro trabalho mais relacionado é ...., publicado no ano ...,  por que ....
 
 ## Materiais e Métodos
 
